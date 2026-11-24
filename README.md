@@ -79,4 +79,4 @@ BrightCart sells products online, has about 150 staff (office and remote), and h
 
 ## Author
 
-[Your Name] | [LinkedIn URL] | Built as a learning exercise.
+[SHIVANI VELUMANI] | [https://www.linkedin.com/in/shivanivelumani/] | Built as a learning exercise.
