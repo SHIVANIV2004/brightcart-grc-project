@@ -1,0 +1,7 @@
+Function,Current Tier (1-4),Current Tier name,Proposed target Tier (1-4),Target Tier name,Gap,Basis for current Tier (evidence),Factors considered for target (SP 1302),Decision owner
+Govern,2,Risk Informed,3.0,Repeatable,1,Policies approved; owners named by role; no risk appetite statement and no management review cadence,Customer and employee data held; payment processor and vendor obligations; leadership appetite to be confirmed,CFO
+Identify,2,Risk Informed,3.0,Repeatable,1,Risk register in use; no maintained asset or data inventory,Risk register already supports a repeatable process; inventory is the main gap,Head of Security
+Protect,2,Risk Informed,3.0,Repeatable,1,"MFA and individual admin accounts in place; access removal, access review and backup testing inconsistent","Highest-impact risks (R-001, R-002, R-006) sit here; feasible with current resources",Head of Security
+Detect,,Not assessed,2.0,Risk Informed,Not assessed,Not assessed this cycle,Tier 2 is a reasonable first goal given limited resources; revisit after assessment,IT Manager
+Respond,2,Risk Informed,3.0,Repeatable,1,Procedure exists but has no timeframe and has not been tested,Regulatory and contractual notification duties need a repeatable process,Head of Security
+Recover,1,Partial,3.0,Repeatable,2,No evidence that recovery is tested or backup integrity checked,Business depends on order and finance data; recovery must be proven,Head of Infrastructure

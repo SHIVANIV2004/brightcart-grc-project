@@ -1,0 +1,11 @@
+Leaver ID,Department,Termination date,Account disabled date,Business days to disable,Result,Notes
+L-0412,Customer Support,2026-07-03,2026-07-03,0,Pass,
+L-0419,Marketing,2026-07-10,2026-07-13,1,Pass,
+L-0427,Operations,2026-07-17,2026-07-31,10,Exception,10 business days. Disabled late.
+L-0433,Finance,2026-07-31,2026-08-03,1,Pass,
+L-0441,Engineering,2026-08-14,2026-08-14,0,Pass,
+L-0449,Customer Support,2026-08-28,2026-09-01,2,Exception,2 business days. Marginally late.
+L-0455,Warehouse Liaison,2026-09-04,2026-09-04,0,Pass,
+L-0462,Engineering,2026-09-11,,Not disabled,Exception,Account still active at test date (2026-10-12). Disabled 2026-10-27 under A-001.
+L-0468,Marketing,2026-09-18,2026-09-21,1,Pass,
+L-0474,Finance,2026-09-25,2026-09-25,0,Pass,

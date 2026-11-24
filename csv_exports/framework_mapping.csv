@@ -1,0 +1,14 @@
+Control ID,Control (short),NIST CSF 2.0,ISO/IEC 27001:2022 Annex A,CIS Controls v8,SOC 2 (Trust Services Criteria),PCI DSS v4.0,Note
+C-01,Offboarding procedure,PR.AA-01,"A.6.5, A.5.16",5,"CC6.2, CC6.3",Req. 8,Termination process
+C-02,Disable within 1 business day,PR.AA-05,A.5.18,6 (6.2),CC6.3,8.2.5,Timeframe set by BrightCart policy
+C-03,Privileged access review,PR.AA-05,"A.5.18, A.8.2","5, 6",CC6.3,7.2.4,Review frequency is a company choice unless a requirement applies
+C-04,Individual accounts,PR.AA-01,"A.5.16, A.8.2",5 (5.1),CC6.1,8.2.2,Shared accounts only by exception
+C-05,MFA,PR.AA-03,A.8.5,6 (6.3-6.5),CC6.1,8.4,Applicability depends on scope
+C-06,Backup monitoring,PR.DS-11,A.8.13,11 (11.2),A1.2,,Supports availability
+C-07,Restoration testing,PR.DS-11,A.8.13,11 (11.5),A1.3,,"Proves recoverability, not just backup success"
+C-08,Vendor due diligence,GV.SC-06,"A.5.19, A.5.22",15,CC9.2,12.8,Proportionate to vendor risk
+C-09,Vendor contract clauses,GV.SC-05,A.5.20,15 (15.4),CC9.2,12.8.2,Legal review needed
+C-10,Incident reporting,RS.MA-01,"A.5.24, A.6.8",17,"CC7.3, CC7.4",12.10,Notification duties depend on law and contract
+C-11,Awareness training,PR.AT-01,A.6.3,14,"CC1.4, CC2.2",12.6,Target set by company
+C-12,Patching,PR.PS-02,A.8.8,7,CC7.1,6.3.3,Not assessed this cycle
+C-13,Cloud config review,PR.PS-01,A.8.9,4,CC6.1,2.2,Operation not tested this cycle
